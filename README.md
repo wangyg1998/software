@@ -7,5 +7,6 @@ Chrome:  <https://www.google.com/intl/zh-CN/chrome/>
 搜狗输入法:  <https://shurufa.sogou.com/>  
 WPS Office:  让你高效解决办公问题  <https://www.wps.cn/>  
 7-Zip:  a file archiver with a high compression ratio  <https://www.7-zip.org/>  
+格式工厂:  多媒体格式转换  <http://www.pcfreetime.com/formatfactory/cn/index.html>  
 
 
